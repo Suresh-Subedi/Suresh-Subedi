@@ -1,4 +1,6 @@
 ### Hi there 👋
+🌱 I’m currently learning react, mui, typescript
+🔭 I’m currently working on my portfolio projects
 
 <!--
 **Suresh-Subedi/Suresh-Subedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
