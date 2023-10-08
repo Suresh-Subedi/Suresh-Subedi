@@ -2,6 +2,10 @@
 🌱 I’m currently learning react, mui, typescript<br/>
 🔭 I’m currently working on my portfolio website using c#, .NET, entity framework, mysql, react, typescript, MUI
 
+### Adventures in programming
+* Started learning react/typescript/MUI
+* Toy CPU simulator in javascript
+* VS Code extension to log in with google and edit posts in my website
 
 ### Adventures in electronics
 * Reprogram hoverboard motherboard to control wheel rotation
