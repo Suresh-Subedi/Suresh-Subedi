@@ -8,8 +8,8 @@
 * VS Code extension to log in with google and edit posts in my website
 
 ### Adventures in electronics
-* Reprogram hoverboard motherboard to control wheel rotation
-* Reprogram monowheel motherboard to control leds, buzzer
+* Reprogram hoverboard motherboard to control wheel rotation (stm-32/st-link)
+* Reprogram monowheel motherboard to control leds, buzzer (stm-32/st-link)
 * Interface 2009 mitsubishi colt steering wheel controls(swc), arduino pro and android tablet to control tablet with swc. Handling  press, double press and long press of 5 buttons with only 2 wires was quite challenging. Even dashboard display mode could be changed from swc (used mosfet for that).
 * Ben Eater's videos are addicting.
 
