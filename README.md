@@ -10,7 +10,7 @@ I also try to make things. Hopefully I'll succeed more in future.
 
 ### Adventures in programming
 * Started learning react/typescript/MUI
-* Toy CPU simulator in javascript
+* [Toy CPU simulator in javascript](https://suresh-subedi.github.io/toy-cpu-emulator/)
 * VS Code extension to log in with google and edit posts in my website
 
 ### Adventures in electronics
