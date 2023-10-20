@@ -12,6 +12,7 @@ I also try to make things. Hopefully I'll succeed more in future.
 * Started learning react/typescript/MUI
 * [Toy CPU simulator in javascript](https://suresh-subedi.github.io/toy-cpu-emulator/)
 * VS Code extension to log in with google and edit posts in my website
+* Chrome extension to add current url/webpage to a selected list of my website
 
 ### Adventures in electronics
 * Reprogram hoverboard motherboard to control wheel rotation (stm-32/st-link)
