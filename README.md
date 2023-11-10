@@ -5,7 +5,7 @@ Lately I'm interested in retro-computing and emulation (ala toy cpu, chip-8).
 I also revel in taking things apart (teardowns).
 I also try to make things. Hopefully I'll succeed more in future.
 
-🌱 I’m currently learning react, mui, typescript<br/>
+🌱 I’m currently learning react, mui, typescript, XAML (WPF/Avalonia)<br/>
 🔭 I’m currently working on my portfolio website using c#, .NET, entity framework, mysql, react, typescript, MUI
 
 ### Adventures in programming
