@@ -1,6 +1,6 @@
 ### Welcome stranger, 👋
 
-My interests are .net, react, typescript, electronics, low-level programming, high-level programming, no mid-level programming, binary operations and manipulations.
+My interests are .net, react, typescript, electronics (mainly digital), low-level programming, high-level programming, no mid-level programming, binary operations and manipulations.
 Lately I'm interested in retro-computing and emulation (ala toy cpu, chip-8).
 I also revel in taking things apart (teardowns).
 I also try to make things. Hopefully I'll succeed more in future.
