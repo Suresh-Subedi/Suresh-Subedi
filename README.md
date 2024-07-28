@@ -20,6 +20,9 @@ I also try to make things. Hopefully I'll succeed more in future.
 * [Interface 2009 mitsubishi colt steering wheel controls(swc), arduino pro and android tablet](https://sureshsubedi.wordpress.com/2022/03/08/adding-steering-wheel-controls-to-mitsubishi-colt-and-imars-10-1-android-tablet/) to control tablet with swc. Handling  press, double press and long press of 5 buttons with only 2 wires was quite challenging. Even dashboard display mode could be changed from swc (used mosfet for that). https://www.youtube.com/watch?v=7afJWoUpAwE
 * Ben Eater's videos are addicting.
 
+### Combination of programming and digital electronics
+* Ported c++ driver for rds fm module to micropython
+
   
 
 <!--
